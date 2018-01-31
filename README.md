@@ -1,4 +1,4 @@
-# EProject
+# zipfile-word
 
 用 python zipfile模块解析word文档
 
